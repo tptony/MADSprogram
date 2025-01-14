@@ -51,4 +51,5 @@ Throughout this program, I've developed a robust skill set in data science, incl
 - Natural language processing and use of large language models
 - Network analysis
 - Communicating data science results effectively
+
 This academic journey has equipped me with both theoretical knowledge and practical skills essential for tackling complex data science challenges in various domains.
